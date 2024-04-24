@@ -25,7 +25,7 @@ https://www.avanade.com/pt-br/about-avanade
 ________
 
 
-## Jornada de Estudos ✨ = Primeira Semana e Relatos
+## Jornada de Estudos ✨ = Primeira Semana e Relato.
 
 - Conhecimento de Desenvolvimento de Aplicações:
 Versionamento de Código com Git e GitHub, Criando um Portifolio Vencedor e Entendendo toda uma estrutura de Projetos Open Source.
