@@ -86,6 +86,8 @@ https://github.com/AgnaldoSousa/trilha-net-explorando-desafio
 
 Essa trilha já foi mais compicado para colocar em pratica, e foi um teste para ver se eu realmente estava aprendendo, em teoria estava conseguindo ir muito bem, mas na pratica estava com bastante de dificuldade de entender algumas coisas, mas é natural faz parte do processo, precisei pesquisar bastante coisa e ler a documentação novamente para colocar a parte teorica na pratica e no dia a dia de forma mais eficiente, mas quero ter a qualidade no meu código e entender tudo. Mas sinto que estou evoluindo cada dia vez mais.
 
+## Terceira Trilha
+
 
 
 
